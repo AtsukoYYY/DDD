@@ -1,9 +1,0 @@
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Infrastructure\bin\Release\DDD.Infrastructure.dll
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Infrastructure\bin\Release\DDD.Infrastructure.pdb
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Infrastructure\bin\Release\DDD.Domain.dll
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Infrastructure\bin\Release\DDD.Domain.pdb
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Infrastructure\obj\Release\DDD.Infrastructure.csprojAssemblyReference.cache
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Infrastructure\obj\Release\DDD.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Infrastructure\obj\Release\DDD.Infrastructure.csproj.CopyComplete
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Infrastructure\obj\Release\DDD.Infrastructure.dll
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Infrastructure\obj\Release\DDD.Infrastructure.pdb
