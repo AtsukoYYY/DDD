@@ -1,6 +1,0 @@
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Domain\bin\Release\DDD.Domain.dll
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Domain\bin\Release\DDD.Domain.pdb
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Domain\obj\Release\DDD.Domain.csprojAssemblyReference.cache
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Domain\obj\Release\DDD.Domain.csproj.CoreCompileInputs.cache
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Domain\obj\Release\DDD.Domain.dll
-C:\Users\bigdi\Desktop\STUDY\DDD\CODE\DDD.Domain\obj\Release\DDD.Domain.pdb
